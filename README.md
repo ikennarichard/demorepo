@@ -1,3 +1,3 @@
 # demorepo
 
-git and github tutorial by academind
+git and github tutorial by freecodecamp
